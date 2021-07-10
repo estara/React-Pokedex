@@ -1,6 +1,6 @@
 {
-  "name": "react-pokedex",
-  "homepage": "https://estara.github.io/react-pokedex/",
+  "name": "React-Pokedex",
+  "homepage": "https://estara.github.io/React-Pokedex/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
